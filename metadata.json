@@ -1,0 +1,6 @@
+{
+  "name": "논산시 공모사업레이더",
+  "description": "중앙부처 공모사업을 한곳에 모아 논산시 적합성을 진단하고 부서별 마감 일정을 관리하는 행정 실무 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
